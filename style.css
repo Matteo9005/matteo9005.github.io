@@ -155,7 +155,7 @@ header {
 }
 
 .home-text {
-    max-width: 50%;
+    max-width: 58%;
 }
 
 .home-text a {
@@ -170,8 +170,8 @@ header {
 }
 
 .propic img {
-    width: 100%;
-    max-width: 26em;
+    width: 24em;
+    height: 30em;
     border-radius: 50%;
     border: 5px solid #162B6F;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.5);
@@ -382,6 +382,7 @@ footer {
 
     .propic img {
         width: 18.5em;
+        height: 23em;
     }
 
     .about-me,
@@ -433,6 +434,7 @@ footer {
 
     .propic img {
         width: 16em;
+        height: 20em;
         margin-bottom: 2em;
     }
 
@@ -483,6 +485,7 @@ footer {
 
     .propic img {
         width: 13em;
+        height: 16em;
     }
 
     .home-text h2 {
@@ -503,6 +506,7 @@ footer {
 
     .propic img {
         width: 12em;
+        height: 15em;
     }
 
     .linkedin-icon,
