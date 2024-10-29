@@ -381,7 +381,7 @@ footer {
     }
 
     .propic img {
-        width: 20em;
+        width: 19.5em;
         height: 23em;
     }
 
@@ -433,7 +433,7 @@ footer {
     }
 
     .propic img {
-        width: 17em;
+        width: 16.5em;
         height: 20em;
         margin-bottom: 2em;
     }
@@ -484,7 +484,7 @@ footer {
 @media (max-width: 480px) {
 
     .propic img {
-        width: 14em;
+        width: 13.5em;
         height: 16em;
     }
 
@@ -505,7 +505,7 @@ footer {
 @media (max-width: 320px) {
 
     .propic img {
-        width: 13em;
+        width: 12.5em;
         height: 15em;
     }
 
