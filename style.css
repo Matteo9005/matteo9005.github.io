@@ -155,7 +155,7 @@ header {
 }
 
 .home-text {
-    max-width: 58%;
+    max-width: 50%;
 }
 
 .home-text a {
@@ -170,7 +170,7 @@ header {
 }
 
 .propic img {
-    width: 24em;
+    width: 26em;
     height: 30em;
     border-radius: 50%;
     border: 5px solid #162B6F;
@@ -381,7 +381,7 @@ footer {
     }
 
     .propic img {
-        width: 18.5em;
+        width: 20em;
         height: 23em;
     }
 
@@ -433,7 +433,7 @@ footer {
     }
 
     .propic img {
-        width: 16em;
+        width: 17em;
         height: 20em;
         margin-bottom: 2em;
     }
@@ -484,7 +484,7 @@ footer {
 @media (max-width: 480px) {
 
     .propic img {
-        width: 13em;
+        width: 14em;
         height: 16em;
     }
 
@@ -505,7 +505,7 @@ footer {
 @media (max-width: 320px) {
 
     .propic img {
-        width: 12em;
+        width: 13em;
         height: 15em;
     }
 
