@@ -21,7 +21,7 @@
 
 @font-face {
     font-family: 'Poppins';
-    src: url('./assets/Fonts/Poppins/Poppins-Bold.ttf') format('woff2');
+    src: url('./assets/Fonts/Poppins/Poppins-Bold.ttf') format('ttf');
     font-weight: 600;
     font-style: normal;
 }
