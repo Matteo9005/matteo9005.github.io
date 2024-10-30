@@ -1,4 +1,37 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+@font-face {
+    font-family: 'Poppins';
+    src: url('./assets/Fonts/Poppins/Poppins-ExtraLight.ttf') format('ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('./assets/Fonts/Poppins/Poppins-Light.ttf') format('ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('./assets/Fonts/Poppins/Poppins-Black.ttf') format('ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('./assets/Fonts/Poppins/Poppins-Bold.ttf') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('./assets/Fonts/Poppins/Poppins-ExtraBold.ttf') format('ttf');
+    font-weight: 700;
+    font-style: normal;
+}
 
 * {
     margin: 0;
@@ -155,7 +188,7 @@ header {
 }
 
 .home-text {
-    max-width: 50%;
+    max-width: 55%;
 }
 
 .home-text a {
