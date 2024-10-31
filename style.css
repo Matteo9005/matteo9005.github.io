@@ -169,13 +169,15 @@ header {
     justify-content: flex-end;
 }
 
-.propic img {
+.profile-img {
     width: 26em;
     height: 30em;
     border-radius: 50%;
     border: 5px solid #162B6F;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.5);
+    object-fit: cover;
 }
+
 
 .home-text h2 {
     font-size: 2.5em;

@@ -62,8 +62,15 @@
             </div>
 
             <div class="propic">
-                <img src="./img/CLP4265-square3.webp" alt="profile img" loading="lazy">
+                <picture>
+                    <source media="(max-width: 320px)" srcset="./img/CLP4265-320px.webp">
+                    <source media="(max-width: 480px)" srcset="./img/CLP4265-480px.webp">
+                    <source media="(max-width: 768px)" srcset="./img/CLP4265-768px.webp">
+                    <source media="(max-width: 1124px)" srcset="./img/CLP4265-1124px.webp">
+                    <img src="./img/CLP4265.webp" alt="profile img" class="profile-img">
+                </picture>
             </div>
+            
         </div>
     </section>
 
